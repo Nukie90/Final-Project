@@ -1,0 +1,3 @@
+from Final import *
+
+Contact()
